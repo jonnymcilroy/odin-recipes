@@ -1,0 +1,1 @@
+Repository for the odin project foundation course Recipes project. This project uses basic HTML 

@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.page {
+    min-height: 100vh;
+    margin:0 10%;
+    background-color: rgb(255, 255, 255);
+    padding-top: 0;
+}
+
+h1{
+    font-weight: 900;
+    text-align: center;
+}
+
+ 
